@@ -40,7 +40,7 @@
 
 - 📧 邮箱：gbhf0020@gmail.com
 - 🌐 博客：https://gbhf0020.pages.dev
-- 💬 X：x.com/gbhf0020
+- 💬 X：www.x.com/gbhf0020
 
 ---
 
