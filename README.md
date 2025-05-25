@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gbhf0020.pages.dev/images/logo.svg" alt="流月 Logo" width="150"/>
+  <img src="https://gbhf0020.pages.dev/images/nav-logo.svg" alt="流月 Logo">
 </div>
 
 <h1 align="center">你好，我是流月 </h1>
