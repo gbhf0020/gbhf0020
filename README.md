@@ -1,7 +1,6 @@
 <h1 align="center">我是 <strong style="color:#6AA9FF;">流月</strong></h1>
 
 <p align="center">
-你好，欢迎来到我的世界<br>
 正在学习编程<br>
 喜欢创造，热爱思考<br>
 让代码慢慢发光
