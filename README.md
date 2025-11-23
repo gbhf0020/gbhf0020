@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/邮箱-gbhf0020@gmail.com-blue?style=for-the-badge&logo=gmail" />
   </a>
   <br/>
-  更多联系方式请访问：<a href="https://www.786692.xyz/contact" target="_blank">www.786692.xyz/contact</a>
+  更多联系方式请访问：<a href="https://sitrmoo.com/contact" target="_blank">www.786692.xyz/contact</a>
 </p>
 
 
