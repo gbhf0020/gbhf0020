@@ -35,10 +35,10 @@
 ## 学习中
 我正在学习：
 - HTML/CSS/JavaScript
-- Englsih
+- English
 
 将来可能会涉猎：
-- Next 和 Vue 等
+- Next 和 Vue 
 - Python
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,vuejs,python,git&theme=light" />
