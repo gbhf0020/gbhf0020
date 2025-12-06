@@ -30,7 +30,7 @@
 
 ![Sitrmoo_路径](https://github.com/user-attachments/assets/38b76ef6-66d8-4d76-88bf-4d07d2e69487)
 
-<h1 align="center">我是 <strong style="color:#6AA9FF;">流月</strong></h1>
+# 我是流月
 
 ## 学习中
 我正在学习：
@@ -47,8 +47,8 @@
 ## 交流
 
 <p align="center">
-  <a href="mailto:gbhf0020@gmail.com">
-    <img src="https://img.shields.io/badge/邮箱-gbhf0020@gmail.com-blue?style=for-the-badge&logo=gmail" />
+  <a href="mailto:hi@sitrmoo.com">
+    <img src="https://img.shields.io/badge/邮箱-hi@sitrmoo.com-blue?style=for-the-badge&logo=gmail" />
   </a>
   <br/>
   更多联系方式请访问：<a href="https://sitrmoo.com/contact" target="_blank">sitrmoo.com/contact</a>
