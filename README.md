@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🌙 Sitrmoo
 
-<!--
-**gbhf0020/gbhf0020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A passionate learner exploring the world of web development and programming.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- **Frontend Basics:** HTML, CSS, JavaScript
+- **Languages:** English (Technical & Daily)
+- **Version Control:** Git & GitHub
+
+## 🚀 Future Interests
+- **Frameworks:** Next.js, Vue.js
+- **Backend & Data:** Python
+- **More:** Open to explore new technologies!
+
+### Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,vuejs,python,git,vscode,github&theme=light&perline=5" />
+</p>
+
+---
+
+## 📬 Contact & Connect
+
+<p align="center">
+  <a href="mailto:hi@sitrmoo.com">
+    <img src="https://img.shields.io/badge/Email-hi@sitrmoo.com-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://sitrmoo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-sitrmoo.com-green?style=for-the-badge&logo=react" />
+  </a>
+  <br/><br/>
+  <strong>For more ways to connect:</strong><br/>
+  <a href="https://sitrmoo.com/contact" target="_blank">sitrmoo.com/contact</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Keep learning, keep building! ✨</i>
+</p>
