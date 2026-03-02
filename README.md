@@ -1,15 +1,15 @@
-# 🌙 Sitrmoo
+# Sitrmoo
 
 **A passionate learner exploring the world of web development and programming.**
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - **Frontend Basics:** HTML, CSS, JavaScript
 - **Languages:** English (Technical & Daily)
 - **Version Control:** Git & GitHub
 
-## 🚀 Future Interests
+## Future Interests
 - **Frameworks:** Next.js, Vue.js
 - **Backend & Data:** Python
 - **More:** Open to explore new technologies!
@@ -21,7 +21,7 @@
 
 ---
 
-## 📬 Contact & Connect
+## Contact & Connect
 
 <p align="center">
   <a href="mailto:hi@sitrmoo.com">
