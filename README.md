@@ -6,8 +6,7 @@
 
 ## Currently Learning
 - **Frontend Basics:** HTML, CSS, JavaScript
-- **Languages:** English (Technical & Daily)
-- **Version Control:** Git & GitHub
+- **Version Control:** Git & GitHub & NPM
 
 ## Future Interests
 - **Frameworks:** Next.js, Vue.js
